@@ -1,3 +1,22 @@
+Package: com.crctdd.pyvideo
+Architecture: iphoneos-arm64e
+Version: 3.3.0
+Maintainer: 水甲嫩鸡
+Installed-Size: 11261
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Filename: debs/Safari-Downloads-3.3.0-storage-recovery-refactor-iphoneos-arm64e.deb
+Size: 6214180
+MD5sum: d1ee3ac779e35a85bf3cfbf91e7bdc10
+SHA1: a63d048bfb80b60260686de612a2650bdeebe5a0
+SHA256: 76e6833c578137822e783bf97d228d4d2c5c4d51a307579583e51721dacb27cb
+SHA512: 647721117268c4e2c51777ffaec50e1387ad6740a8a497a0294c60de75278cd69ebafe056c4ea780558871b1a66ee64f6c4451ed4c2f7c139ddd19d2289d9b52
+Section: 自我救赎
+Description: 让Safari获得某些类似亚瑟浏览器的功能，能够在画中画中直接下载影片，或者在网站中采集图片及影片以下载，长按搜索栏或点击画中画中的菜单开始使用
+Name: Safari亚瑟下载
+Author: 水甲嫩鸡
+icon: https://huayuarc.github.io/icon/pyvideo.jpg
+Depiction: file:///Library/Application%20Support/PyVideo/depiction/index.html
+
 Package: com.shuijia.phonevibrator
 Architecture: iphoneos-arm64e
 Version: 1.2.5
