@@ -33,3 +33,19 @@ Section: 自我救赎
 Description: 打开设置项，开启震动后把它塞进去肛门，或者把鸡巴插进去充电C口
 Name: 手机跳蛋
 Author: 水甲嫩鸡
+
+Name: 相册两倍速进度条
+Package: com.walter.photos-video-2x
+Architecture: iphoneos-arm64e
+Version: 0.5.6
+Maintainer: walter
+Installed-Size: 668
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.walter.photos-video-2x_0.5.6_iphoneos-arm64e.deb
+Size: 240688
+MD5sum: 9022abab142dbeb1895e2cd9430fe58d
+SHA1: 2995e0d849a61403150afd99f6b6a68a9f781b52
+SHA256: 5ccdab3030b7b264a3e78644205877ccfe38efabd30fda61a1ac5f1303612a10
+SHA512: 2460d25871e1725b7a949a9b18a06463edd29e9713eac0c147914e0dc5012d41890ae742ef280860cfbc985c0389a9519bf3071b77c62265e3d5c9de6e87fef4
+Section: 自我救赎
+Description: 在系统相册单图视频播放时，长按左右侧区域临时以 2x 速率播放。
