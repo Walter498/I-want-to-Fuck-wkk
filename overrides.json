@@ -8,5 +8,10 @@
     "name": "相册两倍速进度条",
     "desc": "",
     "keyType": "package"
+  },
+  "pkg:com.codev.nativealbumfilter": {
+    "name": "不在相簿中的篩選添加",
+    "desc": "",
+    "keyType": "package"
   }
 }
