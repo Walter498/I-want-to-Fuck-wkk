@@ -17,6 +17,24 @@ Author: 水甲嫩鸡
 icon: https://huayuarc.github.io/icon/pyvideo.jpg
 Depiction: file:///Library/Application%20Support/PyVideo/depiction/index.html
 
+Package: com.codev.nativealbumfilter
+Architecture: iphoneos-arm64e
+Version: 0.1.38
+Priority: optional
+Maintainer: NativeAlbumFilter contributors
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate
+Conflicts: com.walter.notalbumfilter, com.codev.photos-album-exclusion
+Filename: debs/com.codev.nativealbumfilter_0.1.38_iphoneos-arm64e.deb
+Size: 49796
+MD5sum: bcd6bb949564f4eacc3b559ca8714bb5
+SHA1: 474f50007b87cb1e06a5b65488f0b765aaa1aa1f
+SHA256: 5892e8b38acf60f5143e3ab4c714b092a8d662dac7856bdf2b4e31b5b49c3a28
+SHA512: c1e8f6d027c869b4ec95d26d2cc6c245a23cf306c84d801992ee8612bcdcc1ef96d0f25a4fbaf80e1f3ff20983e1312449b8b496e62796b151c49a123db3d476
+Section: 自我救赎
+Description: Experimental native-state extension for Photos album filtering.
+ This is not a verified backport of the iOS 26 native Photos feature.
+Name: 不在相簿中的篩選添加
+
 Package: com.shuijia.phonevibrator
 Architecture: iphoneos-arm64e
 Version: 1.2.5
